@@ -19,3 +19,7 @@ A curated list of open-source datasets & benchmarks for UI Agent.
 
 ## Agent Trajectory Datasets
 
+| Paper                                                                                  | Dataset                                                | Platform | Date     |
+|----------------------------------------------------------------------------------------|--------------------------------------------------------|--|----------|
+| [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) |  |  | Dec 2024 |
+
